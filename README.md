@@ -208,7 +208,7 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 ---
 
 <p align="center">
-  Made with ❤️ by <a href="https://github.com/ahmadpiracha">Your Name</a>
+  Made with ❤️ by <a href="https://github.com/ahmadpiracha">Ahmad Piracha</a>
 </p>
 
 <p align="center">
